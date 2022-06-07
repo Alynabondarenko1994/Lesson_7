@@ -1,0 +1,15 @@
+D:\учеба\Lesson 7\task50\bin\Debug\net6.0\task50.exe
+D:\учеба\Lesson 7\task50\bin\Debug\net6.0\task50.deps.json
+D:\учеба\Lesson 7\task50\bin\Debug\net6.0\task50.runtimeconfig.json
+D:\учеба\Lesson 7\task50\bin\Debug\net6.0\task50.dll
+D:\учеба\Lesson 7\task50\bin\Debug\net6.0\task50.pdb
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\task50.csproj.AssemblyReference.cache
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\task50.AssemblyInfoInputs.cache
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\task50.AssemblyInfo.cs
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\task50.csproj.CoreCompileInputs.cache
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\task50.dll
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\refint\task50.dll
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\task50.pdb
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\task50.genruntimeconfig.cache
+D:\учеба\Lesson 7\task50\obj\Debug\net6.0\ref\task50.dll
